@@ -3,7 +3,7 @@
 
 - 📅 Final Project [GrouBear](https://github.com/kangseongyeon/GrouBear)
 
-- 📚 Middle Project **Lavendar**
+- 📚 Middle Project [Lavendar](https://github.com/kangseongyeon/LavenderLibrary)
 
 - 🍱 First Project [PlatePal](https://github.com/kangseongyeon/project1)
 
