@@ -7,7 +7,7 @@
 
 - 🍱 First Project [PlatePal](https://github.com/kangseongyeon/project1)
 
-- 👨‍💻 Notion [https://bedecked-experience-416.notion.site/DEVELOPMENT-137983496a648036b8d2c8e9adf75899?pvs=4](https://bedecked-experience-416.notion.site/DEVELOPMENT-137983496a648036b8d2c8e9adf75899?pvs=4)
+- 👨‍💻 Notion [https://bedecked-experience-416.notion.site/DEVELOPMENT-137983496a648036b8d2c8e9adf75899?pvs=4](https://bedecked-experience-416.notion.site/DEVELOPMENT-137983496a648036b8d2c8e9adf75899?pvs=4](https://bedecked-experience-416.notion.site/14f983496a64807ead72f73446ffb508?pvs=4)
 
 - 📫 e-mail **ksy200273@naver.com**
 
